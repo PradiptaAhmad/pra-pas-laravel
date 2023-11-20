@@ -26,6 +26,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/handphone">Handphone</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/laptop">laptop</a>
+                    </li>
                 </ul>
             </div>
         </div>
